@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPA_gandram1_Calculator</string>
+    <string name="msg_app">GPA Calculator</string>
+    <string name="c1">English</string>
+    <string name="c2">French</string>
+    <string name="c3">Maths</string>
+    <string name="c4">Physics</string>
+    <string name="c5">Biology</string>
+    <string name="btn">Calculate GPA</string>
+</resources>
